@@ -1,0 +1,28 @@
+{
+  "name": "json-validation",
+  "version": "1.0.0",
+  "description": "A nodejs library to validate JSONs",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sohom829/json-validation.git"
+  },
+  "keywords": [
+    "JSON",
+    "Validation",
+    "Node",
+    "Schema"
+  ],
+  "author": "Mohtasim Alam Sohom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sohom829/json-validation/issues"
+  },
+  "homepage": "https://github.com/Sohom829/json-validation#readme",
+  "devDependencies": {
+    "@types/node": "^18.15.11"
+  }
+}
